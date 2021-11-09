@@ -1,7 +1,7 @@
 # Facial-Keypoint-Detection
 
 Using OpenCV and deep learning we can implement an algorithm to detect key facial features of people's faces. 
-In this project we do exactly that, by detecting features such as the edge of the face, eyes, and nose by putting dots arouund these features.
+In this project we do exactly that, by detecting features such as the edge of the face, eyes, and nose by putting dots around these features.
 
 ## Python Libraries required
 Standard python libraries such as numpy and matplotlib will be needed, as well as OpenCV, torch, os, pandas, glob, and torchvision.
